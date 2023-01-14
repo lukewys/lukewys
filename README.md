@@ -1,6 +1,6 @@
 ### Hi there I'm Yusong 👋
 
-[![Yusong's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukewys)](https://github.com/anuraghazra/github-readme-stats)
+[![Yusong's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lukewys)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lukewys/lukewys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
